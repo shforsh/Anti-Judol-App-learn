@@ -1,0 +1,5 @@
+{
+  "name": "Copy of GamblShield Discovery Agent",
+  "description": "An automated moderation tool designed to discover and extract gambling website identifiers for streamer chat filters. It uses Google Search grounding to identify current spam patterns and exports normalized keyword databases.",
+  "requestFramePermissions": []
+}
